@@ -10,6 +10,7 @@ The following libraries are used in the work of this bot:
 1. python-telegram-bot
 2. pytesseract
 3. logging
+4. PIL
 
 Tesseract-OCR is also used to run the program.
 I downloaded it from the website:
@@ -43,6 +44,7 @@ Sends recognized text in response, or an error message when processing an image.
 1. python-telegram-bot - https://github.com/python-telegram-bot/python-telegram-bot
 2. pytesseract - https://github.com/h/pytesseract
 3. logging - https://docs.python.org/3/library/logging.html
+4. PIL - https://pillow.readthedocs.io/en/stable/
 
 # Getting help
 If the resources mentioned above do not answer your questions, write me an email at ilya-vor-github@mail.ru
